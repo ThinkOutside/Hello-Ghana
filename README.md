@@ -1,0 +1,2 @@
+# Hello-Ghana
+Collective programming 
