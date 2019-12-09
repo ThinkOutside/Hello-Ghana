@@ -1,2 +1,2 @@
 # Hello-Ghana
-Collective programming 
+new here just finding  my way around github 
