@@ -1,2 +1,2 @@
 # Web Tech
-new here just finding  my way around github 
+Collecting of Sample webpages
